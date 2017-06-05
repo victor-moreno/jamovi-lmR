@@ -1,2 +1,2 @@
 # lmR
-A jamovi module which clones regression analysis and adds a dispersion plot
+A jamovi module which clones Linear Regression analysis and adds a dispersion plot

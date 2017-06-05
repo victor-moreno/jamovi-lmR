@@ -11,7 +11,7 @@ authors:
 maintainer: Victor Moreno <vm@bcn4.net>
 date: '2017-06-05'
 type: R
-description: Clon of linear models with plot in Data Summary
+description: Clon of Linear Regression with plot in Data Summary
 analyses:
   - title: Linear Regression
     name: linReg

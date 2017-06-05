@@ -5,7 +5,7 @@ Version: 0.1.0
 Date: 2017-02-02
 Author: VM
 Maintainer:VM <jvm@bcn4.net>
-Description: A jamovi module which clones regression analysis and adds a dispersion plot
+Description: A jamovi module which clones Linear Regression analysis and adds a dispersion plot
 License: GPL3
 LazyData: TRUE
 Imports:
