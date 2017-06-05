@@ -1,0 +1,23 @@
+---
+title: Lm R
+name: lmR
+version: 0.1.0
+jms: '1.0'
+authors:
+  - Jonathon Love
+  - Damian Dropmann
+  - Ravi Selker
+  - Victor Moreno (Plot)
+maintainer: Victor Moreno <vm@bcn4.net>
+date: '2017-06-05'
+type: R
+description: Clon of linear models with plot in Data Summary
+analyses:
+  - title: Linear Regression
+    name: linReg
+    ns: lmR
+    menuGroup: lmR
+    menuTitle: Linear Regression
+    description: Linear Regression
+
+...

@@ -1,0 +1,13 @@
+Package: lmR
+Type: Package
+Title: Clon of lm analyses of jamovi
+Version: 0.1.0
+Date: 2017-02-02
+Author: VM
+Maintainer:VM <jvm@bcn4.net>
+Description: A jamovi module which clones regression analysis and adds a dispersion plot
+License: GPL3
+LazyData: TRUE
+Imports:
+    jmvcore (>= 0.3.0)
+RoxygenNote: 5.0.1
